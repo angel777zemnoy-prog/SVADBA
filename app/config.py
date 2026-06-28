@@ -1,6 +1,9 @@
 from pydantic_settings import BaseSettings
 
 
+/// ewewe
+
+
 class Settings(BaseSettings):
     database_url: str = "postgresql+asyncpg://svadba:svadba@localhost:5432/svadba"
 
