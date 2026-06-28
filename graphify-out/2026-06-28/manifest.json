@@ -1,0 +1,172 @@
+{
+  ".claude/settings.local.json": {
+    "mtime": 1782655097.9196782,
+    "ast_hash": "38764866a535448837163d67cfcc4ce8",
+    "semantic_hash": "38764866a535448837163d67cfcc4ce8"
+  },
+  "alembic/env.py": {
+    "mtime": 1782644633.1118827,
+    "ast_hash": "a01cd97b85bde63d659501d68099fdd0",
+    "semantic_hash": "a01cd97b85bde63d659501d68099fdd0"
+  },
+  "app/__init__.py": {
+    "mtime": 1782644579.0724757,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/api/__init__.py": {
+    "mtime": 1782644611.8256562,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/api/health.py": {
+    "mtime": 1782644612.302019,
+    "ast_hash": "edcaf7940e95189e4bb27edc71bbf1ae",
+    "semantic_hash": "edcaf7940e95189e4bb27edc71bbf1ae"
+  },
+  "app/api/payment_webhook.py": {
+    "mtime": 1782644617.6514163,
+    "ast_hash": "a29850db63325d6aeb88d030479bc90c",
+    "semantic_hash": "a29850db63325d6aeb88d030479bc90c"
+  },
+  "app/api/vk_webhook.py": {
+    "mtime": 1782644615.665232,
+    "ast_hash": "350f9f65e6f42bbb45e040d8628a8fec",
+    "semantic_hash": "350f9f65e6f42bbb45e040d8628a8fec"
+  },
+  "app/bot/__init__.py": {
+    "mtime": 1782644618.5896983,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/bot/bot.py": {
+    "mtime": 1782644799.4070823,
+    "ast_hash": "f51b56397e6f85377bc85b7f5f7456d6",
+    "semantic_hash": "f51b56397e6f85377bc85b7f5f7456d6"
+  },
+  "app/bot/handlers/__init__.py": {
+    "mtime": 1782644618.8838143,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/bot/handlers/clients.py": {
+    "mtime": 1782644766.0337305,
+    "ast_hash": "5312e06c412017c337dcb0b8e8459a83",
+    "semantic_hash": "5312e06c412017c337dcb0b8e8459a83"
+  },
+  "app/bot/handlers/content.py": {
+    "mtime": 1782644759.20488,
+    "ast_hash": "62cab2f6ef355c7a10cf8ec919bd978b",
+    "semantic_hash": "62cab2f6ef355c7a10cf8ec919bd978b"
+  },
+  "app/bot/handlers/invoices.py": {
+    "mtime": 1782644777.8668811,
+    "ast_hash": "68e2ab58f9d7e3fb76ce2e6d0afd9df3",
+    "semantic_hash": "68e2ab58f9d7e3fb76ce2e6d0afd9df3"
+  },
+  "app/bot/handlers/meetings.py": {
+    "mtime": 1782644789.7432492,
+    "ast_hash": "5473740ac3953920f584084f8f01b818",
+    "semantic_hash": "5473740ac3953920f584084f8f01b818"
+  },
+  "app/bot/handlers/notifications.py": {
+    "mtime": 1782644796.3284383,
+    "ast_hash": "8a6fcbe8a5abc77d6672d3f708e545ab",
+    "semantic_hash": "8a6fcbe8a5abc77d6672d3f708e545ab"
+  },
+  "app/bot/keyboards.py": {
+    "mtime": 1782644743.0914183,
+    "ast_hash": "4f49559297536f40bb4423234df49af5",
+    "semantic_hash": "4f49559297536f40bb4423234df49af5"
+  },
+  "app/config.py": {
+    "mtime": 1782644579.0964766,
+    "ast_hash": "f7ec11d816af16c28c8d030720dcfb27",
+    "semantic_hash": "f7ec11d816af16c28c8d030720dcfb27"
+  },
+  "app/database.py": {
+    "mtime": 1782644579.1714835,
+    "ast_hash": "ec5a80ec1147f130e90842e705be059d",
+    "semantic_hash": "ec5a80ec1147f130e90842e705be059d"
+  },
+  "app/main.py": {
+    "mtime": 1782644627.4459083,
+    "ast_hash": "2df6912b494832aba2b1923045be0506",
+    "semantic_hash": "2df6912b494832aba2b1923045be0506"
+  },
+  "app/models/__init__.py": {
+    "mtime": 1782644583.8304088,
+    "ast_hash": "b40b9cd67e910ee5005f98b26077440a",
+    "semantic_hash": "b40b9cd67e910ee5005f98b26077440a"
+  },
+  "app/models/client.py": {
+    "mtime": 1782644589.0335054,
+    "ast_hash": "278ffafc94f943ab82edcf99efc5ade4",
+    "semantic_hash": "278ffafc94f943ab82edcf99efc5ade4"
+  },
+  "app/models/content.py": {
+    "mtime": 1782644592.3223321,
+    "ast_hash": "a97ef4761239a03674c315eea5b9cfb3",
+    "semantic_hash": "a97ef4761239a03674c315eea5b9cfb3"
+  },
+  "app/models/conversation.py": {
+    "mtime": 1782644598.9551492,
+    "ast_hash": "3dea43fbe72ceb078c06ca3d56c6900b",
+    "semantic_hash": "3dea43fbe72ceb078c06ca3d56c6900b"
+  },
+  "app/models/invoice.py": {
+    "mtime": 1782644602.3100216,
+    "ast_hash": "8cc34a4cead262572167c53b1e506c81",
+    "semantic_hash": "8cc34a4cead262572167c53b1e506c81"
+  },
+  "app/models/meeting.py": {
+    "mtime": 1782644605.474542,
+    "ast_hash": "954490829045ceb5acb4799a5d0f6121",
+    "semantic_hash": "954490829045ceb5acb4799a5d0f6121"
+  },
+  "app/services/__init__.py": {
+    "mtime": 1782644618.119316,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/services/ai_service.py": {
+    "mtime": 1782644695.58608,
+    "ast_hash": "62d48b3f2ddbcb771748455abe59139a",
+    "semantic_hash": "62d48b3f2ddbcb771748455abe59139a"
+  },
+  "app/services/client_service.py": {
+    "mtime": 1782644664.0941,
+    "ast_hash": "708bbdab41b7cad20df77381c162c94c",
+    "semantic_hash": "708bbdab41b7cad20df77381c162c94c"
+  },
+  "app/services/notification_service.py": {
+    "mtime": 1782644725.7212121,
+    "ast_hash": "dffcc87d1cb278a14cfe047031ec04ec",
+    "semantic_hash": "dffcc87d1cb278a14cfe047031ec04ec"
+  },
+  "app/services/payment_service.py": {
+    "mtime": 1782644715.3199446,
+    "ast_hash": "d8f7f43434481ff0722e309dd5984c9d",
+    "semantic_hash": "d8f7f43434481ff0722e309dd5984c9d"
+  },
+  "app/services/scheduler_service.py": {
+    "mtime": 1782644656.089335,
+    "ast_hash": "718df4de78e1c1673517fcd027647146",
+    "semantic_hash": "718df4de78e1c1673517fcd027647146"
+  },
+  "app/services/vk_service.py": {
+    "mtime": 1782644651.2030346,
+    "ast_hash": "54e596895a5ddb85081c82310f69a58a",
+    "semantic_hash": "54e596895a5ddb85081c82310f69a58a"
+  },
+  "app/utils/__init__.py": {
+    "mtime": 1782644609.353892,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/utils/helpers.py": {
+    "mtime": 1782644610.8368642,
+    "ast_hash": "7ac19109488c0ec3ccb93b60c5c3f1d4",
+    "semantic_hash": "7ac19109488c0ec3ccb93b60c5c3f1d4"
+  }
+}
